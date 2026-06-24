@@ -74,6 +74,4 @@ Sample Output:
 * Node.js
 * csv-writer
 
-## Author
 
-QA Automation Engineer
